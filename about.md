@@ -17,3 +17,6 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+
+[get the PDF]({{ site.url }}/pdf/WeilConj.pdf)

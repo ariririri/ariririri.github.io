@@ -16,12 +16,11 @@
 title: p進とl進の間
 email: padic.ariririri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  趣味で数論を勉強する人の記事。内容は気まぐれです。
+  数学の話にご興味があれば、DMください。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @ta_to_co
+twitter_username: ta_to_co
 github_username:  ariririri
 
 # Build settings
