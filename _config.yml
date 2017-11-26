@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: p進と$ \mathbb{R} $ の間
+title: p進と実の間
 email: padic.ariririri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   趣味で数論を勉強する人の記事。内容は気まぐれです。
