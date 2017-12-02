@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
-#
+
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
@@ -18,8 +18,8 @@ email: padic.ariririri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   趣味で数論を勉強する人。内容は気まぐれです。
   数学の話にご興味があれば、DMください。
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  "/"  # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ta_to_co
 #github_username:  ariririri
 
