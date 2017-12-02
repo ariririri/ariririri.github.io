@@ -16,7 +16,7 @@
 title: p進と実の間
 email: padic.ariririri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  趣味で数論を勉強する人の記事。内容は気まぐれです。
+  趣味で数論を勉強する人。内容は気まぐれです。
   数学の話にご興味があれば、DMください。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
