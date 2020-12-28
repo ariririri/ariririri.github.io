@@ -17,15 +17,28 @@ title: p進と実の間
 email: padic.ariririri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   趣味で数論を勉強する人。内容は気まぐれです。
-  数学の話にご興味があれば、DMください。
+  日々自分なりに考えたことをアウトプットできれば。
 baseurl: /  # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ta_to_co
+
+defaults:
+  - scope: 
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 #github_username:  ariririri
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 kramdown:
