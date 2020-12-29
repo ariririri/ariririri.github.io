@@ -38,7 +38,7 @@
       <ul>
       {% for tag in site.tags %}
       <li>
-      <a href="/tags#{{tag[0]}}.html" class="collection-item">{{ tag[0]}}({{tag[1].size}}) <br></a>
+      <a href="/tags#{{tag[0]}}.html" class="collection-item", tag_names={{tag[0]}}>{{ tag[0]}}({{tag[1].size}}) <br></a>
       </li>
       {% endfor %}
       </ul>
