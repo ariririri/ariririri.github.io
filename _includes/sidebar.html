@@ -33,11 +33,15 @@
     </nav>
 
     <div class="collection">
-      <h4>タグ</h4>
+      <h4>カテゴリー</h4>
 
+      <ul>
       {% for tag in site.tags %}
-      <a href="/tags#{{tag[0]}}.html" class="collection-item">{{ tag[0]}}({{tag[1].size}})</a>
+      <li>
+      <a href="/tags#{{tag[0]}}.html" class="collection-item">{{ tag[0]}}({{tag[1].size}}) <br></a>
+      </li>
       {% endfor %}
+      </ul>
     </div>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
