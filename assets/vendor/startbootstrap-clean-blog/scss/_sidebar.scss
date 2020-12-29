@@ -4,7 +4,7 @@
     max-width: 280px; 
     padding: 2rem 1rem;
     /* background-color: #202020; */
-    text-align: right; }
+    text-align: left; }
   @media (min-width: 48em) {
     .sidebar {
       position: fixed;
@@ -12,6 +12,6 @@
       right: 0;
       bottom: 0;
       width: 18rem;
-      text-align: right;
+      text-align: left;
     }
   }
