@@ -42,5 +42,19 @@ gulp.task('vendor', function(cb) {
 
 });
 
+
+gulp.task('sass', function() {
+  gulp.src(path.join(assetsPath, 'sass/main.scss'))
+      .pipe(plumber())
+      .pipe(sass())
+      .pipe(autoprefixer())
+      .pipe(gulp.dest(path.join(assetsPath, 'css/')));
+});
+
+
+gulp.task('default', function() {
+  gulp.watch(path.join(assetsPath, 'sass/**/*.scss'),['sass']);
+});
+
 gulp.task("default", gulp.parallel('vendor'));
 

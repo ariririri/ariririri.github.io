@@ -1,7 +1,20 @@
 # ブログ
 
+
+## このブログで理解しとくこと
+- 基本はjekyll
+- themeはjekyll-theme-clean-blog
+  - ただし,themeで指定するのではなくローカルにコピーしてカスタマイズして利用している.
+  - これにした理由はbootstrapを使って癖のないフォーマットだったから.
+- scssはcssに手動コンパイルする必要がある.
+  ```
+  sass assets/main.scss assets/main.css --trace
+  ```
+
+
 ## TODO
 - [ ] main.cssの自動更新
+  - gulpを真面目に使えばできそうだけど、そこまでする必要はないと判断.
 - [ ] esaとjekyllの連携
   - https://blog.waft.me/2016/09/19/esa-circl-ci/
 - [x] 右サイドバーの作成
@@ -20,7 +33,7 @@
 - [ ] 上部の空間の減少
   - 改善はしたものの、まだ課題あり
 - [x] h2,h1に対する改善
-- [ ] 数式あり
+- [x] 数式あり
   - https://sekika.github.io/2015/10/10/equation-on-jekyll/
 - [ ] 全体的なグレードアップ
   - https://masamichi.me/ を参考に

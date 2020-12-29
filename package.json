@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ariririri/ariririri.github.io#readme",
   "devDependencies": {
     "gul": "^1.0.0",
+    "gulp": "^4.0.2",
     "gulp-sass": "^4.1.0"
   }
 }
