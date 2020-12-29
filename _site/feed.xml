@@ -1,4 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-29T19:34:06+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">p進と実の狭間</title><subtitle>趣味で数論を勉強する人。内容は気まぐれです。&lt;/br&gt; 日々自分なりに考えたことをアウトプットできれば。</subtitle><entry><title type="html">2020年作品ランキング</title><link href="http://localhost:4000/2020/12/29/2020%E5%B9%B4%E4%BD%9C%E5%93%81%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0.html" rel="alternate" type="text/html" title="2020年作品ランキング" /><published>2020-12-29T00:00:00+09:00</published><updated>2020-12-29T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/29/2020%E5%B9%B4%E4%BD%9C%E5%93%81%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0</id><content type="html" xml:base="http://localhost:4000/2020/12/29/2020%E5%B9%B4%E4%BD%9C%E5%93%81%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0.html">&lt;h2 id=&quot;10位-デカダンス&quot;&gt;10位 デカダンス&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-30T01:15:20+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">p進と実の狭間</title><subtitle>趣味で数論を勉強する人。内容は気まぐれです。&lt;/br&gt; 日々自分なりに考えたことをアウトプットできれば。</subtitle><entry><title type="html">ブログで書く話</title><link href="http://localhost:4000/2020/12/30/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E6%9B%B8%E3%81%8F%E8%A9%B1.html" rel="alternate" type="text/html" title="ブログで書く話" /><published>2020-12-30T00:00:00+09:00</published><updated>2020-12-30T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/30/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E6%9B%B8%E3%81%8F%E8%A9%B1</id><content type="html" xml:base="http://localhost:4000/2020/12/30/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E6%9B%B8%E3%81%8F%E8%A9%B1.html">&lt;p&gt;このブログに何を書くかは実はかなり悩んでいる。&lt;/p&gt;
+
+&lt;p&gt;普通、ブログを書くなら、一つの分野に絞った方がわかりやすいし、読者も付きやすい。
+例えば数学に絞って書く、機械学習に絞って書く等。&lt;/p&gt;
+
+&lt;p&gt;でも、個人的にはそうしたくない。&lt;/p&gt;
+
+&lt;p&gt;なぜかというと自分なりに漠然と考えていることを言語化することに意味を感じているからだ。&lt;/p&gt;
+
+&lt;p&gt;そもそも僕がなぜブログを書こうと思ったかというと、自分の考えを外に出すことでこれをたまたま読んだ方(自分も含む)に何らかの刺激を与えたいからだ。&lt;/p&gt;
+
+&lt;p&gt;このコロナで未来に対して強く不安を持つようになった。そこで2020年は刹那的な楽しさに傾倒しながらなんとか耐えた1年だった。
+でもそれがずっと続くのは生産的ではない。来年は不安定だからこそできる工夫をこらし、楽しく生きていきたい。&lt;/p&gt;
+
+&lt;p&gt;そのためには特に内容に拘っていないし、きれいにまとまったよりもまだ何ともよくわからないぼんやりとしたものについて考えた話があるといいんではないかと思っている。&lt;/p&gt;
+
+&lt;p&gt;実際の話、僕がほんとうに独自の色を強く出した数学を記事を出し続けられるかというと多分できないというもある。&lt;/p&gt;
+
+&lt;p&gt;好きな数学も今と1年後で多分変わる。&lt;/p&gt;
+
+&lt;p&gt;なので、ひとまずは一つの分野に絞るわけではなく、不器用でもリアリティのある、誰かの話のネタとなるような話ができればと思っている。&lt;/p&gt;</content><author><name></name></author><category term="雑記" /><summary type="html">このブログに何を書くかは実はかなり悩んでいる。</summary></entry><entry><title type="html">スプラトゥーンsまでいった振り返り</title><link href="http://localhost:4000/2020/12/29/%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3S%E3%81%BE%E3%81%A7%E3%81%84%E3%81%A3%E3%81%9F%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A.html" rel="alternate" type="text/html" title="スプラトゥーンsまでいった振り返り" /><published>2020-12-29T00:00:00+09:00</published><updated>2020-12-29T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/29/%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3S%E3%81%BE%E3%81%A7%E3%81%84%E3%81%A3%E3%81%9F%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A</id><content type="html" xml:base="http://localhost:4000/2020/12/29/%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3S%E3%81%BE%E3%81%A7%E3%81%84%E3%81%A3%E3%81%9F%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A.html">&lt;h2 id=&quot;この記事は&quot;&gt;この記事は&lt;/h2&gt;
+
+&lt;p&gt;スプラトゥーンを始めて4ヶ月で全ルールSは達成したので、Sになるまでで気づき、考えたポイント、工夫したポイントを話します。&lt;/p&gt;
+
+&lt;p&gt;武器はオーバーフロッシャー無印を使っています。&lt;/p&gt;
+
+&lt;p&gt;S+になって思ったことですが、現時点でのスプラトゥーンだと&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sまで: 個人×4&lt;/li&gt;
+  &lt;li&gt;S+〜: チーム戦&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;となります。&lt;/p&gt;
+
+&lt;p&gt;S+からはレベルの差こそあれどカバーするシーンが多く発生するようになります。Sまではほとんどの場合で起きなかったことです。&lt;/p&gt;
+
+&lt;p&gt;なので、Sの場合、裏取りに気づいても1人で倒さないといけないことが多いし、基本は1対1の対面で勝てれば、負けないです。&lt;/p&gt;
+
+&lt;p&gt;なので、勝つには&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1対1の対面で勝つ&lt;/li&gt;
+  &lt;li&gt;大事な盤面での状況の把握&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;が重要でした。&lt;/p&gt;
+
+&lt;h2 id=&quot;1対1の対面で&quot;&gt;1対1の対面で&lt;/h2&gt;
+&lt;p&gt;Aレベルだと相手の対面が極めて強いなんてありえません。(殆どの場合)実際、めったに横から奇襲されないし、潜伏キルなんてほとんど発生しません。(まれに裏取り大好きマンがいるので、裏取りする相手はまたすると思って意識しておくとよいです。)&lt;/p&gt;
+
+&lt;p&gt;なので、勝つのに意識したのは&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;自分が有利な場所(≒相手には自由度が少なく、こちらに自由度が多い場所)で戦う&lt;/li&gt;
+  &lt;li&gt;最低限エイム練習する&lt;/li&gt;
+  &lt;li&gt;射程を理解する程度には持ち武器を使う&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;でした。&lt;/p&gt;
+
+&lt;p&gt;お風呂の場合、直線の塗りが強く、左右の塗りが弱いので、&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;狭い通路や、相手が直線的にしか進めない場所&lt;/li&gt;
+  &lt;li&gt;(1トリガーでキルできるので、)膠着のある武器を横から狙う&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;が強かったです。特に高台(ガンガゼやコンブトラック)のチャージャー、スピナーは意識がオブジェクトや短射程に向きがちなので、キルは結構簡単に取れます。ローラーやボールドも直線的に詰めてくる事が多いので、意外にキル取れます。&lt;/p&gt;
+
+&lt;p&gt;またエイム練習は&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qtD43e1kjQ4&amp;amp;ab_channel=PvP%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%96%E3%83%AD%E3%82%B0&quot;&gt;【スプラトゥーン2】エイム力を鍛えるコツと練習方法！&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;で3〜4連エイムができるようにするぐらいやりました。
+全くやっていない人ならともかく1日15分-30分を2,3週間すれば劇的にエイムは変わります。&lt;/p&gt;
+
+&lt;p&gt;ポイントは&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;シャープマーカー、ボトルカイザー、ラピッドブラスター等のぶれのない武器で練習&lt;/li&gt;
+  &lt;li&gt;左右上下の感覚を掴むために自分の武器で練習&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;を繰り返しただけです。これが安定するレベルだと打ち合いでそんなに負けなくなります。
+実際、お風呂でも8〜10キルは安定して取れるようになったと思います。&lt;/p&gt;
+
+&lt;p&gt;うまくなってくるとサブと組み合わせてなんてのもありますが、Aレベルだとメインで凸ってくるので、それをきちんと倒せば問題ないです。&lt;/p&gt;
+
+&lt;p&gt;上のエイム練習は左右上下が身につく程度で射程の概念やスキがどの程度かはわからないです。&lt;/p&gt;
+
+&lt;p&gt;ガチマでもいいですが、もち武器がある場合はサーモンでの確認も有効です。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;バクダン、コウモリ相手に一度も外さずにきちんと倒せるか&lt;/li&gt;
+  &lt;li&gt;雑魚に囲まれても自分の生存バッファーを意識しながら逃げられるか&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;このあたりができないようだと、武器の練度がAレベルで見ても足りないと判断します。&lt;/p&gt;
+
+&lt;h2 id=&quot;大事な盤面での状況の把握&quot;&gt;大事な盤面での状況の把握&lt;/h2&gt;
+&lt;p&gt;大事な盤面とは主にこの2つを指します。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;攻め、守りの転換期&lt;/li&gt;
+  &lt;li&gt;試合ラスト&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;攻め守りの転換期&quot;&gt;攻め、守りの転換期&lt;/h3&gt;
+&lt;p&gt;人数有利が取れた時、大事なのは前に行くことです。
+A帯ガチマやX帯ガチマとゲームスピードが違うなんてよく言われますが、前にいくスピードが全然違います。&lt;/p&gt;
+
+&lt;p&gt;ヤグラやホコの場合、2枚か3枚有利になったら、相手の防衛ポジションに堂々と入って荒らします。こうすることで、一気にすすめる道ができます。
+相手がリスから戻ってくる前に高台に入れるかで取れるカウントが全く違うので、意識しておくといいです。
+逆に言うと不利になった場合は高台を抑えられないように無駄なデスをせずに下がることが最重要になります。&lt;/p&gt;
+
+&lt;p&gt;アサリも同じようなものですが、アサリの場合ゴールの終了時にこうした人数有利不利が入れ替わる事が多いです。
+なので、ゴールいれた側はゴール終了後、高台はもちろん可能な限り真ん中も抑えておく意識を持つと良いです。
+そうするとカウンターされなくなります。&lt;/p&gt;
+
+&lt;p&gt;エリアの場合、&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;抑えでの1キルは大きいです。 
+幸か不幸か誰か一人は前に突っ込んでくるので、そこを逃さずに横からキルするのが大事です。このときは相手を見るのが重要になります。&lt;/li&gt;
+  &lt;li&gt;打開の場合、味方と合わせてキルを取るのが重要になります。スペシャルをあわせられた最高ですが、A帯ガチマだとかなり難しいです。
+なので、&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;自分が一番強いと思う味方の近くにいる.&lt;/li&gt;
+  &lt;li&gt;2対1で相手を一人倒す.&lt;/li&gt;
+  &lt;li&gt;その後自分のスペシャルをはいて打開&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;が基本です。もし味方が1キル入れてくれた場合も迷わずスペシャルをはきます。このスペシャルが意味を持つためにも、エリアの場合はアーマー、マルチミサイル、ナイスダマ、ボムラッシュ、アメフラシ等のスペシャルを持っている武器をおすすめします。&lt;/p&gt;
+
+&lt;h3 id=&quot;試合ラスト&quot;&gt;試合ラスト&lt;/h3&gt;
+
+&lt;p&gt;試合ラスト逆転負け多くないですか?
+本当に多いです。 味方も直線的に突っ込んで負ける場合も多いので、そもそも試合ラストに延長に入らない立ち回り意識しました。&lt;/p&gt;
+
+&lt;p&gt;得にラスト30秒、有利な場合は必ずスペシャルを溜めます。&lt;/p&gt;
+
+&lt;p&gt;ヤグラやホコなら相手を止めてしまえば終わりなので、ハイプレ、マルチミサイル、ナイスダマ&lt;/p&gt;
+
+&lt;p&gt;で強引に止める意識を持つと万が一がなくなります。&lt;/p&gt;
+
+&lt;p&gt;エリアならそれに加えてボムピ、アメフラシ、バブルランチャー、スーパーチャクチも有効です。&lt;/p&gt;
+
+&lt;p&gt;基本ラスト30秒勝っていたらスペシャルを使い有利な場所できっちり勝ち切ることを意識しましょう。&lt;/p&gt;
+
+&lt;p&gt;味方が突っ込むようであれば、死なない範囲でボムでカバーしたり、カモンで呼び寄せたりした方がよいです。&lt;/p&gt;
+
+&lt;p&gt;本当にこれだけで全然結果が違います。&lt;/p&gt;
+
+&lt;h2 id=&quot;勝率&quot;&gt;勝率&lt;/h2&gt;
+&lt;p&gt;これは余談ですが、ガチマでウデマエ更新するには6割で十分です。
+なので、負ける試合があるのはもちろんです。これでも負けるから意味ないではなく、きわどい試合を取りこぼさず6割を超える意識だということだけ注意しておきます。&lt;/p&gt;
+
+&lt;p&gt;それではよい一年を。&lt;/p&gt;</content><author><name></name></author><category term="スプラトゥーン" /><summary type="html">この記事は</summary></entry><entry><title type="html">Mathjaxチェック</title><link href="http://localhost:4000/2020/12/29/mathjax%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF.html" rel="alternate" type="text/html" title="Mathjaxチェック" /><published>2020-12-29T00:00:00+09:00</published><updated>2020-12-29T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/29/mathjax%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF</id><content type="html" xml:base="http://localhost:4000/2020/12/29/mathjax%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF.html">&lt;p&gt;mathjaxを導入したので、テスト用の記事を記載する。&lt;/p&gt;
+
+&lt;p&gt;今回の導入はhttps://sekika.github.io/2015/10/10/equation-on-jekyll/ を参考にした。&lt;/p&gt;
+
+&lt;h2 id=&quot;注意点&quot;&gt;注意点&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;layout: mathはpageを引き継がない.(引き継ぐとタイトルが二回表示される)&lt;/li&gt;
+  &lt;li&gt;数式のフォーマットは&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$$&lt;/code&gt;でインラインかどうかは改行の有無で判断($一つは数式扱いにならない)
+    &lt;ul&gt;
+      &lt;li&gt;インライン: 
+\(y = f(x)\)&lt;/li&gt;
+      &lt;li&gt;全体の場合&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+\[\mathbb{Z}_p \simeq \mathbb{Z}[[x]]/(x - p)\]</content><author><name></name></author><summary type="html">mathjaxを導入したので、テスト用の記事を記載する。</summary></entry><entry><title type="html">2020年作品ランキング</title><link href="http://localhost:4000/2020/12/29/2020%E5%B9%B4%E4%BD%9C%E5%93%81%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0.html" rel="alternate" type="text/html" title="2020年作品ランキング" /><published>2020-12-29T00:00:00+09:00</published><updated>2020-12-29T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/29/2020%E5%B9%B4%E4%BD%9C%E5%93%81%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0</id><content type="html" xml:base="http://localhost:4000/2020/12/29/2020%E5%B9%B4%E4%BD%9C%E5%93%81%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0.html">&lt;h2 id=&quot;10位-デカダンス&quot;&gt;10位 デカダンス&lt;/h2&gt;
 
 &lt;iframe width=&quot;800&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/9emVslQhuBY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -202,157 +372,7 @@
 &lt;ul&gt;
   &lt;li&gt;盾の勇者のなりあがり&lt;/li&gt;
   &lt;li&gt;ロード・エルメロイII世の事件簿&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="アニメ" /><summary type="html">10位 デカダンス</summary></entry><entry><title type="html">Mathjaxチェック</title><link href="http://localhost:4000/2020/12/29/mathjax%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF.html" rel="alternate" type="text/html" title="Mathjaxチェック" /><published>2020-12-29T00:00:00+09:00</published><updated>2020-12-29T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/29/mathjax%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF</id><content type="html" xml:base="http://localhost:4000/2020/12/29/mathjax%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF.html">&lt;p&gt;mathjaxを導入したので、テスト用の記事を記載する。&lt;/p&gt;
-
-&lt;p&gt;今回の導入はhttps://sekika.github.io/2015/10/10/equation-on-jekyll/ を参考にした。&lt;/p&gt;
-
-&lt;h2 id=&quot;注意点&quot;&gt;注意点&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;layout: mathはpageを引き継がない.(引き継ぐとタイトルが二回表示される)&lt;/li&gt;
-  &lt;li&gt;数式のフォーマットは&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$$&lt;/code&gt;でインラインかどうかは改行の有無で判断($一つは数式扱いにならない)
-    &lt;ul&gt;
-      &lt;li&gt;インライン: 
-\(y = f(x)\)&lt;/li&gt;
-      &lt;li&gt;全体の場合&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-\[\mathbb{Z}_p \simeq \mathbb{Z}[[x]]/(x - p)\]</content><author><name></name></author><summary type="html">mathjaxを導入したので、テスト用の記事を記載する。</summary></entry><entry><title type="html">スプラトゥーンsまでいった振り返り</title><link href="http://localhost:4000/2020/12/29/%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3S%E3%81%BE%E3%81%A7%E3%81%84%E3%81%A3%E3%81%9F%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A.html" rel="alternate" type="text/html" title="スプラトゥーンsまでいった振り返り" /><published>2020-12-29T00:00:00+09:00</published><updated>2020-12-29T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/29/%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3S%E3%81%BE%E3%81%A7%E3%81%84%E3%81%A3%E3%81%9F%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A</id><content type="html" xml:base="http://localhost:4000/2020/12/29/%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3S%E3%81%BE%E3%81%A7%E3%81%84%E3%81%A3%E3%81%9F%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A.html">&lt;h2 id=&quot;この記事は&quot;&gt;この記事は&lt;/h2&gt;
-
-&lt;p&gt;スプラトゥーンを始めて4ヶ月で全ルールSは達成したので、Sになるまでで気づき、考えたポイント、工夫したポイントを話します。&lt;/p&gt;
-
-&lt;p&gt;武器はオーバーフロッシャー無印を使っています。&lt;/p&gt;
-
-&lt;p&gt;S+になって思ったことですが、現時点でのスプラトゥーンだと&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sまで: 個人×4&lt;/li&gt;
-  &lt;li&gt;S+〜: チーム戦&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;となります。&lt;/p&gt;
-
-&lt;p&gt;S+からはレベルの差こそあれどカバーするシーンが多く発生するようになります。Sまではほとんどの場合で起きなかったことです。&lt;/p&gt;
-
-&lt;p&gt;なので、Sの場合、裏取りに気づいても1人で倒さないといけないことが多いし、基本は1対1の対面で勝てれば、負けないです。&lt;/p&gt;
-
-&lt;p&gt;なので、勝つには&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;1対1の対面で勝つ&lt;/li&gt;
-  &lt;li&gt;大事な盤面での状況の把握&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;が重要でした。&lt;/p&gt;
-
-&lt;h2 id=&quot;1対1の対面で&quot;&gt;1対1の対面で&lt;/h2&gt;
-&lt;p&gt;Aレベルだと相手の対面が極めて強いなんてありえません。(殆どの場合)実際、めったに横から奇襲されないし、潜伏キルなんてほとんど発生しません。(まれに裏取り大好きマンがいるので、裏取りする相手はまたすると思って意識しておくとよいです。)&lt;/p&gt;
-
-&lt;p&gt;なので、勝つのに意識したのは&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;自分が有利な場所(≒相手には自由度が少なく、こちらに自由度が多い場所)で戦う&lt;/li&gt;
-  &lt;li&gt;最低限エイム練習する&lt;/li&gt;
-  &lt;li&gt;射程を理解する程度には持ち武器を使う&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;でした。&lt;/p&gt;
-
-&lt;p&gt;お風呂の場合、直線の塗りが強く、左右の塗りが弱いので、&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;狭い通路や、相手が直線的にしか進めない場所&lt;/li&gt;
-  &lt;li&gt;(1トリガーでキルできるので、)膠着のある武器を横から狙う&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;が強かったです。特に高台(ガンガゼやコンブトラック)のチャージャー、スピナーは意識がオブジェクトや短射程に向きがちなので、キルは結構簡単に取れます。ローラーやボールドも直線的に詰めてくる事が多いので、意外にキル取れます。&lt;/p&gt;
-
-&lt;p&gt;またエイム練習は&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qtD43e1kjQ4&amp;amp;ab_channel=PvP%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%96%E3%83%AD%E3%82%B0&quot;&gt;【スプラトゥーン2】エイム力を鍛えるコツと練習方法！&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;で3〜4連エイムができるようにするぐらいやりました。
-全くやっていない人ならともかく1日15分-30分を2,3週間すれば劇的にエイムは変わります。&lt;/p&gt;
-
-&lt;p&gt;ポイントは&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;シャープマーカー、ボトルカイザー、ラピッドブラスター等のぶれのない武器で練習&lt;/li&gt;
-  &lt;li&gt;左右上下の感覚を掴むために自分の武器で練習&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;を繰り返しただけです。これが安定するレベルだと打ち合いでそんなに負けなくなります。
-実際、お風呂でも8〜10キルは安定して取れるようになったと思います。&lt;/p&gt;
-
-&lt;p&gt;うまくなってくるとサブと組み合わせてなんてのもありますが、Aレベルだとメインで凸ってくるので、それをきちんと倒せば問題ないです。&lt;/p&gt;
-
-&lt;p&gt;上のエイム練習は左右上下が身につく程度で射程の概念やスキがどの程度かはわからないです。&lt;/p&gt;
-
-&lt;p&gt;ガチマでもいいですが、もち武器がある場合はサーモンでの確認も有効です。&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;バクダン、コウモリ相手に一度も外さずにきちんと倒せるか&lt;/li&gt;
-  &lt;li&gt;雑魚に囲まれても自分の生存バッファーを意識しながら逃げられるか&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;このあたりができないようだと、武器の練度がAレベルで見ても足りないと判断します。&lt;/p&gt;
-
-&lt;h2 id=&quot;大事な盤面での状況の把握&quot;&gt;大事な盤面での状況の把握&lt;/h2&gt;
-&lt;p&gt;大事な盤面とは主にこの2つを指します。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;攻め、守りの転換期&lt;/li&gt;
-  &lt;li&gt;試合ラスト&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;攻め守りの転換期&quot;&gt;攻め、守りの転換期&lt;/h3&gt;
-&lt;p&gt;人数有利が取れた時、大事なのは前に行くことです。
-A帯ガチマやX帯ガチマとゲームスピードが違うなんてよく言われますが、前にいくスピードが全然違います。&lt;/p&gt;
-
-&lt;p&gt;ヤグラやホコの場合、2枚か3枚有利になったら、相手の防衛ポジションに堂々と入って荒らします。こうすることで、一気にすすめる道ができます。
-相手がリスから戻ってくる前に高台に入れるかで取れるカウントが全く違うので、意識しておくといいです。
-逆に言うと不利になった場合は高台を抑えられないように無駄なデスをせずに下がることが最重要になります。&lt;/p&gt;
-
-&lt;p&gt;アサリも同じようなものですが、アサリの場合ゴールの終了時にこうした人数有利不利が入れ替わる事が多いです。
-なので、ゴールいれた側はゴール終了後、高台はもちろん可能な限り真ん中も抑えておく意識を持つと良いです。
-そうするとカウンターされなくなります。&lt;/p&gt;
-
-&lt;p&gt;エリアの場合、&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;抑えでの1キルは大きいです。 
-幸か不幸か誰か一人は前に突っ込んでくるので、そこを逃さずに横からキルするのが大事です。このときは相手を見るのが重要になります。&lt;/li&gt;
-  &lt;li&gt;打開の場合、味方と合わせてキルを取るのが重要になります。スペシャルをあわせられた最高ですが、A帯ガチマだとかなり難しいです。
-なので、&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;自分が一番強いと思う味方の近くにいる.&lt;/li&gt;
-  &lt;li&gt;2対1で相手を一人倒す.&lt;/li&gt;
-  &lt;li&gt;その後自分のスペシャルをはいて打開&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;が基本です。もし味方が1キル入れてくれた場合も迷わずスペシャルをはきます。このスペシャルが意味を持つためにも、エリアの場合はアーマー、マルチミサイル、ナイスダマ、ボムラッシュ、アメフラシ等のスペシャルを持っている武器をおすすめします。&lt;/p&gt;
-
-&lt;h3 id=&quot;試合ラスト&quot;&gt;試合ラスト&lt;/h3&gt;
-
-&lt;p&gt;試合ラスト逆転負け多くないですか?
-本当に多いです。 味方も直線的に突っ込んで負ける場合も多いので、そもそも試合ラストに延長に入らない立ち回り意識しました。&lt;/p&gt;
-
-&lt;p&gt;得にラスト30秒、有利な場合は必ずスペシャルを溜めます。&lt;/p&gt;
-
-&lt;p&gt;ヤグラやホコなら相手を止めてしまえば終わりなので、ハイプレ、マルチミサイル、ナイスダマ&lt;/p&gt;
-
-&lt;p&gt;で強引に止める意識を持つと万が一がなくなります。&lt;/p&gt;
-
-&lt;p&gt;エリアならそれに加えてボムピ、アメフラシ、バブルランチャー、スーパーチャクチも有効です。&lt;/p&gt;
-
-&lt;p&gt;基本ラスト30秒勝っていたらスペシャルを使い有利な場所できっちり勝ち切ることを意識しましょう。&lt;/p&gt;
-
-&lt;p&gt;味方が突っ込むようであれば、死なない範囲でボムでカバーしたり、カモンで呼び寄せたりした方がよいです。&lt;/p&gt;
-
-&lt;p&gt;本当にこれだけで全然結果が違います。&lt;/p&gt;
-
-&lt;h2 id=&quot;勝率&quot;&gt;勝率&lt;/h2&gt;
-&lt;p&gt;これは余談ですが、ガチマでウデマエ更新するには6割で十分です。
-なので、負ける試合があるのはもちろんです。これでも負けるから意味ないではなく、きわどい試合を取りこぼさず6割を超える意識だということだけ注意しておきます。&lt;/p&gt;
-
-&lt;p&gt;それではよい一年を。&lt;/p&gt;</content><author><name></name></author><category term="スプラトゥーン" /><summary type="html">この記事は</summary></entry><entry><title type="html">2020年の振り返り</title><link href="http://localhost:4000/2020/12/28/%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A.html" rel="alternate" type="text/html" title="2020年の振り返り" /><published>2020-12-28T00:00:00+09:00</published><updated>2020-12-28T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/28/%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A</id><content type="html" xml:base="http://localhost:4000/2020/12/28/%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A.html">&lt;p&gt;2020年はコロナもあり、ゆっくりと停滞した年でした。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="アニメ" /><summary type="html">10位 デカダンス</summary></entry><entry><title type="html">2020年の振り返り</title><link href="http://localhost:4000/2020/12/28/%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A.html" rel="alternate" type="text/html" title="2020年の振り返り" /><published>2020-12-28T00:00:00+09:00</published><updated>2020-12-28T00:00:00+09:00</updated><id>http://localhost:4000/2020/12/28/%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A</id><content type="html" xml:base="http://localhost:4000/2020/12/28/%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A.html">&lt;p&gt;2020年はコロナもあり、ゆっくりと停滞した年でした。&lt;/p&gt;
 
 &lt;p&gt;その分、自分にも向き合える年でした。&lt;/p&gt;
 
