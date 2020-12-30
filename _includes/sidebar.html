@@ -11,9 +11,10 @@
     </div>
 
     <nav class="sidebar-nav">
+    <h4>links</h4>
+      {% comment %}
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home  {{site.baseurl}}</a>
 
-      {% comment %}
         一旦使わないため削除
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
@@ -28,7 +29,11 @@
         {% endfor %}
       {% endcomment %}
     
+      <ul>
+      <li>
       <a class="sidebar-nav-item" href="https://twitter.com/{{site.twitter_username}}" >Twitter</a>
+      </li>
+      </ul>
 
     </nav>
 

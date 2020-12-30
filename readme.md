@@ -33,13 +33,13 @@
   - 本来はDBを使うべき内容.(tagとURLのリンクを動的に作成したい.)
 - [ ] 分野ごとのリンク作成
   - これはある程度ちゃんと作ってから
-- [ ] 上部の空間の減少
+- [x] 上部の空間の減少
   - 改善はしたものの、まだ課題あり
 - [x] h2,h1に対する改善
 - [x] 数式あり
   - https://sekika.github.io/2015/10/10/equation-on-jekyll/
 - [ ] 全体的なグレードアップ
   - https://masamichi.me/ を参考に
-- [ ] google analyticsとSEO対策作成
-- [ ] 数学のページも作成
+- [x] google analyticsとSEO対策作成
+- [x] 数学のページも作成
   - PDF置き場
