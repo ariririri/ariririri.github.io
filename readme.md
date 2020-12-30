@@ -38,3 +38,6 @@
   - https://sekika.github.io/2015/10/10/equation-on-jekyll/
 - [ ] 全体的なグレードアップ
   - https://masamichi.me/ を参考に
+- [ ] google analyticsとSEO対策作成
+- [ ] 数学のページも作成
+  - PDF置き場
