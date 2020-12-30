@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 数学
 ---
 
 数学関係のTopページちょっとした数学ブログとかもかけたら。
