@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-01T17:58:25+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">p進と実の狭間</title><subtitle>趣味で数論を勉強する人。内容は気まぐれです。&lt;/br&gt; 日々自分なりに考えたことをアウトプットできれば。</subtitle><entry><title type="html">2020年阪大 微分幾何</title><link href="http://localhost:4000/2021/01/01/%E9%98%AA%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%99%A2%E8%A9%A6.html" rel="alternate" type="text/html" title="2020年阪大 微分幾何" /><published>2021-01-01T00:00:00+09:00</published><updated>2021-01-01T00:00:00+09:00</updated><id>http://localhost:4000/2021/01/01/%E9%98%AA%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%99%A2%E8%A9%A6</id><content type="html" xml:base="http://localhost:4000/2021/01/01/%E9%98%AA%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%99%A2%E8%A9%A6.html">&lt;p&gt;新年何か一つぐらい数学の問題をときたいと思ったので、&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-02T21:00:22+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">p進と実の狭間</title><subtitle>趣味で数論を勉強する人。内容は気まぐれです。&lt;/br&gt; 日々自分なりに考えたことをアウトプットできれば。</subtitle><entry><title type="html">2020年阪大院試 群論</title><link href="http://localhost:4000/2021/01/02/%E9%98%AA%E5%A4%A7%E6%95%B0%E5%AD%A6-%E7%BE%A4%E8%AB%96.html" rel="alternate" type="text/html" title="2020年阪大院試 群論" /><published>2021-01-02T00:00:00+09:00</published><updated>2021-01-02T00:00:00+09:00</updated><id>http://localhost:4000/2021/01/02/%E9%98%AA%E5%A4%A7%E6%95%B0%E5%AD%A6-%E7%BE%A4%E8%AB%96</id><content type="html" xml:base="http://localhost:4000/2021/01/02/%E9%98%AA%E5%A4%A7%E6%95%B0%E5%AD%A6-%E7%BE%A4%E8%AB%96.html">&lt;p&gt;今日も解いてみます。群論の問題です。
+&lt;img width=&quot;680&quot; alt=&quot;image.png (165.5 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/7890/2021/01/02/29770/fdbc58c3-481b-4927-b355-5b84e12c1068.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(1)
+ \(M,N\) は正規部分群なので,\(xyx^{-1}y^{-1} \in M \cap N = {1}\)
+となるので、言えた.&lt;/p&gt;
+
+&lt;p&gt;(2)
+定義から,\(g \in G\)に対し,\(f \in F_1, h \in H_2\)で\(g = fh\)と表せれば良い.&lt;/p&gt;
+
+&lt;p&gt;それは,\(g = f_2 h_2(f_2 \in F_2, h_2 \in H_2)\)と表される.また\(F_1\)の生成元\(f_1 = (f')^kh_2'\)と表される\((f')\)は\(F_2\)の生成元を一つ固定(実際は位数pなので単位元以外)
+これから適当にべき乗することで\(f' = f_1^{a}h_2'^{-a}\)となる.
+よって,\(g\)は\(F_1\)の元と\(H_2\)の元で表される.&lt;/p&gt;
+
+&lt;p&gt;(3)\(f_1,f_2\)をそれぞれ\(F_1,F_2\)の生成元を一つ固定する.
+\(h \in H_2\)に対し,\(h=h_1f_1^n\)と表される.
+この表し方は一意である.なぜなら,\(h_1f_1^n=h_1'f_1'\)とすると
+\(h_1'^{-1}h_1'=f_1'f_1^{-n} \in H_1 \cap F_1\)より一致するためである.&lt;/p&gt;
+
+&lt;p&gt;これによって
+\(g: H_2 \to H_1, h \mapsto h_1\)が定義される.
+また\(f_1 \in F_1 \subset H_2\)に対しては\(f_1 = f_1 \cdot 1\)となるため,この写像\(g\)は\(H_2/F_1 \to H_1/F_2\)を誘導する.&lt;/p&gt;
+
+&lt;p&gt;全射性は\(h_1\)を任意に取る.
+\(h_1  = f_2' h_2\)と表されるので,\(f_2'^{-1}h_1  =h_2\)より言える.
+\(h_2 \mapsto f_2'^{-1}h_1\)となり,この行き先は\(h_1\)と同じ同型類に属するので言えた.
+単射性を示す.
+\(\hat{g}: H_2/F_1 \to H_1/F_2\)で単位元に写る場合は\(h_2= f_1' f_2'\)と表される場合である.
+この時,\(h_2f_1'^{-1}=f_2'=1\)となるので,
+\(H_2/F_1\)上\(h_2\)は単位元になる.よって言えた.&lt;/p&gt;
+
+&lt;p&gt;(4) Cの定義から
+\(F_1 \cap H_2 = \{1\}\) or \(F_1 \subset H_2\)のどちらかになる.&lt;/p&gt;
+
+&lt;p&gt;\(F_1 \cap H_2  =\{1\}\)の時,
+\(F_1  \Join H_2 = F_1 \Join H_1\)&lt;/p&gt;
+
+&lt;p&gt;なので,\(\alpha: h_2 =f_1h_1 \mapsto h_1\)を定める.
+これは\(h_2h_2' \mapsto h_1h_1'\)となるので群準同型で,さらに単射になる.
+\(\alpha^{-1}(1)\)の元は\(f_1 \in F_1\)と表されるので.
+\(f_1 \in H_1\)とすると,1となるためである.&lt;/p&gt;
+
+&lt;p&gt;また逆に全射は\(h_1\)を取ると
+\(h_1 = f_1'h_2\)と表されるので,
+\(h_2=f_1'^{-1}h_1\)となるため,言える.&lt;/p&gt;
+
+&lt;p&gt;同様に\(F_2 \cap H_1 =  \{1\}\)の時も示される.&lt;/p&gt;
+
+&lt;p&gt;どちらでもない場合,
+つまり\(F_1 \subset H_2, F_2 \subset H_1\)の時&lt;/p&gt;
+
+&lt;p&gt;\(h_1\)に対し,\(h_2=f_1 h_1\)となる\(h_2, f_1\)を見つけたい.&lt;/p&gt;
+
+&lt;p&gt;これが見つかると,\(h_1 \in H_2\)となるため,\(H_1=H_2\)となる.これは何かがおかしい。&lt;/p&gt;
+
+&lt;p&gt;今\(H_1 \to H_2\)を以下で定義する.
+\(h_1 \in H_1\)に対し\(h_1 = f_2h_2\)となり,\(g:F_2 \to F_1\)を使い,\(g(f_2)h_2\)へと移したとする.&lt;/p&gt;
+
+&lt;p&gt;これが同型となることを示す.&lt;/p&gt;
+
+&lt;p&gt;群準同型なのは明らか.&lt;/p&gt;
+
+&lt;p&gt;全射性は\(g \in H_2\)に対し,ある\(h_1 = f_2 h_2\)で\(f_1h_2=g\)となるものを見つければ良い.&lt;/p&gt;
+
+&lt;p&gt;\(g=f_1h_1\)と表される.この時,\(g , f_2 \in H_2\)より,
+\(h_1 \in H_2\)となる.
+\(f_2h_1\)を取ると,\(f_2h_1 \mapsto f_1h_1=g\)となるので全射となる.&lt;/p&gt;
+
+&lt;p&gt;単射性を示す.
+\(g(f_2)h_2 = 1\),\(f_1\)を\(F_1\)の生成元とすると.
+つまり\(h_2 = f_1^k\)と表されたとする.
+この時\(f_2h_2=f_2 f_1^k\)となりこれが\(H_1\)の元となっていたとすると,\(f_1^k \in H_1\)となるので\(f_1^k=1\)となる
+よって\(f_2=1\)となり,\(h_2=1\)となるので単射性も言えた.&lt;/p&gt;
+
+&lt;p&gt;(4)かなりはまりました。Notationがぐちゃぐちゃなので、混乱する人は生成元とそれ以外を明確に書いて確認したほうがいいと思います。&lt;/p&gt;</content><author><name></name></author><category term="数学" /><summary type="html">今日も解いてみます。群論の問題です。</summary></entry><entry><title type="html">2020年阪大 微分幾何</title><link href="http://localhost:4000/2021/01/01/%E9%98%AA%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%99%A2%E8%A9%A6.html" rel="alternate" type="text/html" title="2020年阪大 微分幾何" /><published>2021-01-01T00:00:00+09:00</published><updated>2021-01-01T00:00:00+09:00</updated><id>http://localhost:4000/2021/01/01/%E9%98%AA%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%99%A2%E8%A9%A6</id><content type="html" xml:base="http://localhost:4000/2021/01/01/%E9%98%AA%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%99%A2%E8%A9%A6.html">&lt;p&gt;新年何か一つぐらい数学の問題をときたいと思ったので、&lt;/p&gt;
 
 &lt;p&gt;http://www.math.sci.osaka-u.ac.jp/inshi/kakomondai/2020/2020B.pdf&lt;/p&gt;
 
@@ -1186,14 +1260,4 @@ et al., 2008). Therefore, by the Tychonoff product theorem (Hart et al., 2003), 
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;よって\(t\)の意味での極限と思うことができ,論文ではそちらで扱っている.(この場合もWeighted Graphでないといけないはずだが)&lt;/p&gt;</content><author><name></name></author><category term="machine learning" /><category term="GNN" /><summary type="html">Graph Homomorphism Convolutionを調べたメモです. どうしても調べたりない部分があると思うので、誤りはコメントいただけるとありがたいです。 論文が全体的に読みやすいので気になる人は原論文を読んでください.</summary></entry><entry><title type="html">hellow world</title><link href="http://localhost:4000/2017/11/18/first.html" rel="alternate" type="text/html" title="hellow world" /><published>2017-11-18T22:36:14+09:00</published><updated>2017-11-18T22:36:14+09:00</updated><id>http://localhost:4000/2017/11/18/first</id><content type="html" xml:base="http://localhost:4000/2017/11/18/first.html">&lt;h1 id=&quot;hello-world&quot;&gt;hello world&lt;/h1&gt;
-
-&lt;p&gt;ブログ始めました．
-はてなでもかまわないのですが,&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;PDFを公開できること&lt;/li&gt;
-  &lt;li&gt;カスタマイズ可能
-という特徴からgithub.io上で動かすことにしました．&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;よろしくお願いします．&lt;/p&gt;</content><author><name></name></author><summary type="html">hello world</summary></entry></feed>
+&lt;p&gt;よって\(t\)の意味での極限と思うことができ,論文ではそちらで扱っている.(この場合もWeighted Graphでないといけないはずだが)&lt;/p&gt;</content><author><name></name></author><category term="machine learning" /><category term="GNN" /><summary type="html">Graph Homomorphism Convolutionを調べたメモです. どうしても調べたりない部分があると思うので、誤りはコメントいただけるとありがたいです。 論文が全体的に読みやすいので気になる人は原論文を読んでください.</summary></entry></feed>
